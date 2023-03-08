@@ -26,10 +26,10 @@ window.requestAnimationFrame = (function(){
   
 		  // Setting default leaderboard data
 		  if (typeof(Storage) !== "undefined") {
-			  localStorage["board.0.name"] = "Leon Kennedy";
-			  localStorage["board.0.score"] = 9990;
-			  localStorage["board.1.name"] = "Amir Bekhit";
-			  localStorage["board.1.score"] = 1700;
+			  localStorage["board.0.name"] = "Leeroy Jenkins";
+			  localStorage["board.0.score"] = 9999;
+			  localStorage["board.1.name"] = "Ren Goku";
+			  localStorage["board.1.score"] = 1800;
 		  }
   
 		  let engine = {
